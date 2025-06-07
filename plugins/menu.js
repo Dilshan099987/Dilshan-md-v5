@@ -36,6 +36,7 @@ cmd({
 ┃ ⪢ 8. OTHER MENU  
 ┃ ⪢ 9. REACTIONS MENU  
 ┃ ⪢ 10. MAIN MENU  
+╰━━━━━━━━━━━━━━━━━━━━━━━┈⊷
 
 🌀 *Reply the number to open a menu* 💬  
 
