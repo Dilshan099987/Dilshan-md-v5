@@ -48,7 +48,7 @@ https://whatsapp.com/channel/0029Vb5nAex2UPBGW79XCX1T
       'forwardingScore': 0x3e7,
       'isForwarded': true,
       'forwardedNewsletterMessageInfo': {
-        'newsletterJid': "https://whatsapp.com/channel/0029Vb691MgG8l5GHg8HgI3b",
+        'newsletterJid': "120363419308807922@newsletter",
         'newsletterName':"𝐃𝐈𝐋𝐒𝐇𝐀𝐍_𝐌𝐃",
         'serverMessageId': 0x8f
       }
